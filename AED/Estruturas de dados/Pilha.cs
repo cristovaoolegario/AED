@@ -59,6 +59,7 @@ using System;
 		
 		public Elemento Encontrar(dynamic id)
 		{
+		}
 
 		
 	}
